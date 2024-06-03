@@ -118,8 +118,8 @@ Stay organized and on top of your work with this schedule! Let's have a producti
 ## 🌐 Useful Links
 
 - [Course Website](https://www2.cs.sfu.ca/CourseCentral/225/alavergn/index.html)
-- [Lecture Recordings](https://lecturerecordings.com)
 - [Coursys](https://coursys.sfu.ca/)
+- [Extra Help](https://roadmap.sh/datastructures-and-algorithms)
 
 ## 📢 Contributing
 
